@@ -1,5 +1,7 @@
+body{
+    background-color: yellow;
+}
 .doboz{
-    width: 300px;
-    margin: auto
-    ;
+    width: 200px;
+    margin: auto;
 }
