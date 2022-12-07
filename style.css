@@ -1,9 +1,11 @@
 body{
-    background-color: yellow;
+    background-color: lightgrey;
 }
 .nav-item{
     margin: auto;
 }
+
+
 
 .container-fluid{
     width: 100%;
@@ -19,4 +21,8 @@ img{
 .center{
     margin-left: auto ;
     margin-right: auto;
+}
+.kepek{
+    width: 128px;
+    height: 128px;
 }
