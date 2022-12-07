@@ -8,3 +8,15 @@ body{
 .container-fluid{
     width: 100%;
 }
+img{
+    border-radius: 20%;
+
+}
+.dobozkép{
+    margin: 100px;
+    text-align:;
+}
+.center{
+    margin-left: auto ;
+    margin-right: auto;
+}
