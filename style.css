@@ -4,9 +4,6 @@ body{
 .nav-item{
     margin: auto;
 }
-
-
-
 .container-fluid{
     width: 100%;
 }
@@ -16,7 +13,6 @@ img{
 }
 .dobozkép{
     margin: 100px;
-    text-align:;
 }
 .center{
     margin-left: auto ;
