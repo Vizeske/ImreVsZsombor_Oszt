@@ -1,10 +1,10 @@
 body{
     background-color: yellow;
 }
-.doboz{
-    width: 200px;
-    margin: auto;
-}
 .nav-item{
     margin: auto;
+}
+
+.container-fluid{
+    width: 100%;
 }
