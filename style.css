@@ -1,5 +1,9 @@
 body{
     background-color: lightgrey;
+    background-image: url(osztály.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
 }
 .nav-item{
     margin: auto;
@@ -22,3 +26,8 @@ img{
     width: 128px;
     height: 128px;
 }
+
+p{
+    background-color: #277671;
+}
+
