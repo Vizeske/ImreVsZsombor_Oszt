@@ -23,11 +23,16 @@ img{
     margin-right: auto;
 }
 .kepek{
-    width: 128px;
-    height: 128px;
+    width: 166px;
+    height: 166px;
 }
 
 p{
-    background-color: #277671;
+    background-color: #5cc4bd;
 }
 
+.center {
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
