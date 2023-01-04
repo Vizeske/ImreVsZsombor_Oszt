@@ -1,6 +1,6 @@
 body{
     background-color: lightgrey;
-    background-image: url(osztály.jpg);
+    background-image: url(hatter.png);
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
@@ -16,10 +16,10 @@ img{
 
 }
 .dobozkép{
-    margin: 100px;
+    margin: 100px 100px auto 100px;
 }
 .center{
-    margin-left: auto ;
+    margin-left: auto;
     margin-right: auto;
 }
 .kepek{
@@ -31,8 +31,20 @@ p{
     background-color: #5cc4bd;
 }
 
-.center {
-    margin-left: auto;
-    margin-right: auto;
-  }
-  
+.kepekg{
+    width: 482px;
+    height: 256px;
+}
+
+.sorok{
+    margin: auto 100px auto 100px;
+    background-color: #5cc4bd;
+    font-weight: bold;
+    font-size: 24px;
+    border-radius: 20%;
+}
+
+.oatlag{
+    width: 512px;
+    height: auto;
+}
