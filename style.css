@@ -32,8 +32,8 @@ p{
 }
 
 .kepekg{
-    width: 482px;
-    height: 256px;
+    width: 550px;
+    height: 600px;
 }
 
 .sorok{
@@ -47,4 +47,19 @@ p{
 .oatlag{
     width: 512px;
     height: auto;
+}
+p{
+    font-size: large;
+ font-weight: bold;
+}
+h1{
+    text-align: center;
+    font-weight: bold;
+    color: white;
+}
+table{
+    text-align: center;
+}
+.kozep{
+    text-align: center;
 }
