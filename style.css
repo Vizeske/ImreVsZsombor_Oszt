@@ -23,7 +23,7 @@ body{
 }
 .kepek{
     width: 166px;
-    height: auto;
+    height: 166px;
 }
 
 p{
@@ -98,6 +98,4 @@ table{
 .center{
     margin-left: auto;
     margin-right: auto;
-    width: auto;
-    height: 256px;
 }
